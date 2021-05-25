@@ -178,14 +178,14 @@ background: var(--white-second-color);
   color: var(--other-text-ff);
   
 }
-.style_title-port h3{
+.style_title_port h3{
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
   color: var(--black-color);
 }
-.style_title-port p{
+.style_title_port p{
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
