@@ -178,6 +178,9 @@ background: var(--white-second-color);
   color: var(--other-text-ff);
   
 }
+.style_title_port li{
+  list-style-type: none;
+}
 .style_title_port h3{
   font-weight: bold;
   font-size: 18px;
