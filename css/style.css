@@ -148,21 +148,7 @@ background: var(--white-second-color);
   background: var(--other-text-ff);
 }
 
-/* footer section */
 
-.footer_style{
-  background: var(--gray-color);
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  }
-.footer_cotacts_style{  
-  color: rgba(255, 255, 255, 0.6);
-}
-
-.adress_style{
-  color: var(--other-text-ff);
-}
 
 /* PORTFOLIO */
 
@@ -206,3 +192,19 @@ background: var(--white-second-color);
   color: var(--second-text-color);
 }
 
+/* footer section */
+
+.footer_style{
+  font-style: normal;
+  background: var(--gray-color);
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  }
+.footer_cotacts_style{  
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.adress_style{
+  color: var(--other-text-ff);
+}
